@@ -1,0 +1,7 @@
+C:\Users\pastl\source\repos\PairedProgrammingGame\PairedProgrammingGame\obj\Debug\PairedProgrammingGame.csprojAssemblyReference.cache
+C:\Users\pastl\source\repos\PairedProgrammingGame\PairedProgrammingGame\obj\Debug\PairedProgrammingGame.csproj.CoreCompileInputs.cache
+C:\Users\pastl\source\repos\PairedProgrammingGame\PairedProgrammingGame\bin\Debug\PairedProgrammingGame.exe.config
+C:\Users\pastl\source\repos\PairedProgrammingGame\PairedProgrammingGame\bin\Debug\PairedProgrammingGame.exe
+C:\Users\pastl\source\repos\PairedProgrammingGame\PairedProgrammingGame\bin\Debug\PairedProgrammingGame.pdb
+C:\Users\pastl\source\repos\PairedProgrammingGame\PairedProgrammingGame\obj\Debug\PairedProgrammingGame.exe
+C:\Users\pastl\source\repos\PairedProgrammingGame\PairedProgrammingGame\obj\Debug\PairedProgrammingGame.pdb
